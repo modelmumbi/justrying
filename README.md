@@ -1,0 +1,2 @@
+# justrying
+my class work
